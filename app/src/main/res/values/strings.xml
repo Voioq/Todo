@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_chart">Chart</string>
+    <string name="title_chart_detail">Chart Detail</string>
+    <string name="title_save_or_update">Save Or Update</string>
+
+    <string name="radio_button_school">School</string>
+    <string name="radio_button_business">Business</string>
+    <string name="radio_button_shopping">Shopping</string>
+    <string name="radio_button_sport">Sport</string>
+
+    <string name="select_date_button">Select Date</string>
+    <string name="save_button">Save</string>
+
+
+    <string name="input_note">Input Note</string>
+
+    <string name="text_type">Example Type</string>
+    <string name="text_date">01/01/2023</string>
+    <string name="text_note">Example Note</string>
+    <string name="content_description"> </string>
+
+
+    <string name="true_">true</string>
+    <string name="false_">true</string>
+
+
+
+    <string name="alert">Alert</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="alert_mesaj">Are you sure ?</string>
+
+
+    <string name="School">school</string>
+    <string name="Sport">sport</string>
+    <string name="Shopping">shopping</string>
+    <string name="Business">business</string>
+
+
+
+</resources>
